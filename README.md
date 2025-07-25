@@ -1,7 +1,5 @@
 # Text-To-Image-And-Audio-Generation
 
-Text-to-Image and Audio Generation
-
 This project is a multimodal AI system that transforms a single line of text input into both realistic images and natural-sounding audio. By integrating state-of-the-art deep learning models for visual and auditory synthesis, the project aims to showcase creative AI capabilities in content generation, accessibility, and interactive applications.
 
 ---
